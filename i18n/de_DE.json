@@ -74,7 +74,7 @@
         "label": "Zeige Dauer des Video uploads"
     },
     "player_quality": {
-        "label": "Standart Videoqualität:",
+        "label": "Standard Videoqualität:",
         "options": [
             "Auto",
             "4320p (8k)",
